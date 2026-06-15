@@ -54,7 +54,7 @@ AI-powered water security & drought management platform with interactive dashboa
 
 ![Skills](https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mysql,git,opencv)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kk911-gpt&show_icons=true&theme=radical)
+
 
 
 <!--
