@@ -49,7 +49,7 @@ AI-powered water security & drought management platform with interactive dashboa
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="www.linkedin.com/in/kritika-kumari-cs"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ![Skills](https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mysql,git,opencv)
