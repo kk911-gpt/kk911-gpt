@@ -9,6 +9,7 @@
 
 ### 🔭 Currently Working On
 - **LLM Evaluation & Red-Teaming Framework** — an AI safety project evaluating hallucination, bias, jailbreaks, toxicity & prompt injection across LLMs, with a multi-round red-teaming loop and live Streamlit dashboard
+- **HybridRAG — Customer Complaint Classifier** -- Building a RAG pipeline that combines semantic + keyword search (hybrid retrieval) to classify customer complaints with structured LLM output. Uses Top-K context retrieval for accurate, reasoning-backed responses — going beyond simple keyword or vector search alone.
 - Exploring real-world applications of Generative AI through hands-on dashboards and simulations (power grid intelligence, water resource management)
 
 ### 🌱 Currently Learning
